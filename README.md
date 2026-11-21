@@ -7,7 +7,7 @@ A responsive, single-page Korean self-care journal PWA for Android and Windows.
 - Mounjaro injection checkbox/dose and side-effect notes (no redundant manual medication-name/dose field)
 - Meal notes for breakfast/lunch/dinner/snacks, optional photos
 - Mood scale and free-form journal
-- Editable small to-do list
+- Editable small to-do list, auto-filled each new day with 3 "하찮은 플랜" from different categories (`plans.js`, 300 plans; no repeats within 100 days per device)
 - Selectable/custom daily influence factors
 - Local browser storage works without an account
 
